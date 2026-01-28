@@ -1,3 +1,4 @@
+<script type="text/javascript">
 // <![CDATA[
 var colour="#000000";
 var sparkles=120;
@@ -167,3 +168,4 @@ function createDiv(height, width) {
   return (div);
 }
 // ]]>
+</script>
